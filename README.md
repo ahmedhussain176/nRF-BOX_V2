@@ -1,9 +1,13 @@
 # nRFBox
 
+                               DEMO || DEVELOPER
+
+                            
+
 Compact ESP32-based RF toolkit with an OLED icon UI, multi-radio nRF24L01 support, and on-device controls. Built for lab use and learning.
 
-![nRFBox prototype on perfboard](assets/nrfbox-prototype-bw.jpg)
-![nRFBox handheld demo](assets/nrfbox-in-hand.jpg)
+<img src="assets/nrfbox-prototype-bw.jpg" alt="nRFBox prototype on perfboard" width="600" />
+<img src="assets/nrfbox-in-hand.jpg" alt="nRFBox handheld demo" width="600" />
 
 ## Highlights
 - OLED icon menu with 12 modules and quick navigation
@@ -34,24 +38,6 @@ Compact ESP32-based RF toolkit with an OLED icon UI, multi-radio nRF24L01 suppor
 - 5x momentary buttons (Up, Down, Left, Right, Select)
 - Optional SD card module (firmware updates)
 
-## Pin map (default)
-Defined in [config.h](config.h).
-
-| Function | GPIO |
-| --- | --- |
-| Button Up | 26 |
-| Button Select | 33 |
-| Button Down | 32 |
-| Button Right | 27 |
-| Button Left | 25 |
-| SD CS | 5 |
-| nRF24 CE A | 5 |
-| nRF24 CSN A | 17 |
-| nRF24 CE B | 16 |
-| nRF24 CSN B | 4 |
-| nRF24 CE C | 15 |
-| nRF24 CSN C | 2 |
-| NeoPixel | 14 |
 
 ## Controls
 - Up/Down/Left/Right navigate the icon grid.
@@ -77,10 +63,13 @@ Defined in [config.h](config.h).
 - Use Settings -> Update Firmware from the device UI.
 
 ## Safety and legal
-This project includes modules that can interfere with radio communications. Use only in controlled environments, on equipment you own, and where local laws allow it. You are responsible for compliance and safe operation.
+This project is for educational purposes only. It includes modules that can interfere with radio communications. Use only in controlled environments, on equipment you own, and where local laws allow it. You are responsible for compliance and safe operation.
 
 ## License
-Add a license that matches how you want others to use this project.
+All rights reserved. This repository is shared for viewing only; no license is granted for reuse, modification, or redistribution.
 
 ## Acknowledgments
 - Icons and UI are embedded in [icon.h](icon.h).
+## Links
+                            - Instagram: https://instagram.com/ahmed_hussain006
+                            - GitHub: https://github.com/ahmedhussain176
