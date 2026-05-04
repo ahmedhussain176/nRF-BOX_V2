@@ -1,6 +1,6 @@
 # nRFBox
 
-                                                                        DEMO || DEVELOPER
+                                                            DEMO || DEVELOPER
 
 
 
@@ -75,4 +75,4 @@ All rights reserved. This repository is shared for viewing only; no license is g
 ## Acknowledgments
 - Icons and UI are embedded in [icon.h](icon.h).
   
-##Links: [Instagram](https://instagram.com/ahmed_hussain006) | [GitHub](https://github.com/ahmedhussain176)
+## Links: [Instagram](https://instagram.com/ahmed_hussain006) | [GitHub](https://github.com/ahmedhussain176)
