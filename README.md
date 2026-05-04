@@ -1,4 +1,4 @@
-# nRFBox
+# nRFBox_V2
 
                                                             DEMO || DEVELOPER
 
