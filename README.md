@@ -1,10 +1,21 @@
-# nRFBox_V2
+# nRF-Box_V2
 
                                                             DEMO || DEVELOPER
 
 
 
-Compact ESP32-based RF toolkit with an OLED icon UI, multi-radio nRF24L01 support, and on-device controls. Built for lab use and learning.
+
+## Description
+<p style="color:#ff2d2d; font-family:'Courier New', monospace; letter-spacing:0.5px;">
+    nRFBox is a pocket-ready RF console for the curious: an ESP32 core, a crisp OLED UI, and triple nRF24L01 radios under your fingertips. Built for educational use and lab demonstrations on equipment you own.
+</p>
+
+## What you can do
+- Navigate modules from the icon menu and view device status screens.
+- Scan nearby BLE devices and Wi-Fi networks with RSSI and channel details.
+- Visualize 2.4 GHz activity using the nRF24 analyzer view.
+- Run controlled RF test modes on the nRF24 radios for lab experiments.
+- Update firmware from SD and adjust device settings (brightness, NeoPixel).
 
 <table>
     <tr>
@@ -76,3 +87,6 @@ All rights reserved. This repository is shared for viewing only; no license is g
 - Icons and UI are embedded in [icon.h](icon.h).
   
 ## Links: [Instagram](https://instagram.com/ahmed_hussain006) | [GitHub](https://github.com/ahmedhussain176)
+
+                                                            DEMO || DEVELOPER
+
