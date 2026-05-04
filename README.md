@@ -1,13 +1,17 @@
 # nRFBox
 
-                               DEMO || DEVELOPER
+DEMO || DEVELOPER
 
-                            
+
 
 Compact ESP32-based RF toolkit with an OLED icon UI, multi-radio nRF24L01 support, and on-device controls. Built for lab use and learning.
 
-<img src="assets/nrfbox-prototype-bw.jpg" alt="nRFBox prototype on perfboard" width="600" />
-<img src="assets/nrfbox-in-hand.jpg" alt="nRFBox handheld demo" width="600" />
+<table>
+    <tr>
+        <td><img src="assets/nrfbox-prototype-bw.jpg" alt="nRFBox prototype on perfboard" width="420" /></td>
+        <td><img src="assets/nrfbox-in-hand.jpg" alt="nRFBox handheld demo" width="420" /></td>
+    </tr>
+</table>
 
 ## Highlights
 - OLED icon menu with 12 modules and quick navigation
@@ -70,6 +74,4 @@ All rights reserved. This repository is shared for viewing only; no license is g
 
 ## Acknowledgments
 - Icons and UI are embedded in [icon.h](icon.h).
-## Links
-                            - Instagram: https://instagram.com/ahmed_hussain006
-                            - GitHub: https://github.com/ahmedhussain176
+Links: [Instagram](https://instagram.com/ahmed_hussain006) | [GitHub](https://github.com/ahmedhussain176)
