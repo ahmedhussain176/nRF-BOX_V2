@@ -68,7 +68,7 @@
 - Right button is also used for in-module actions where shown on screen.
 
 ## Build and flash
-- Open [nRFBox.ino](nRFBox.ino) in Arduino IDE.
+- Open nRFBox.ino in Arduino IDE.
 - Install the ESP32 board package.
 - Install required libraries listed below.
 - Select your ESP32 board and upload.
