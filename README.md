@@ -83,10 +83,7 @@ This project is for educational purposes only. It includes modules that can inte
 ## License
 All rights reserved. This repository is shared for viewing only; no license is granted for reuse, modification, or redistribution.
 
-## Acknowledgments
-- Icons and UI are embedded in [icon.h](icon.h).
-  
-## Links: [Instagram](https://instagram.com/ahmed_hussain006) | [GitHub](https://github.com/ahmedhussain176)
+
 
                                                             DEMO || DEVELOPER
 
