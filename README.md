@@ -83,7 +83,16 @@ This project is for educational purposes only. It includes modules that can inte
 ## License
 All rights reserved. This repository is shared for viewing only; no license is granted for reuse, modification, or redistribution.
 
+# 👨‍💻 Developer
 
+**AHMED HUSSAIN**
 
-                                                            DEMO || DEVELOPER
+                                                               **Demo || Developer**  
+ 
+
+                                            Red Hat Hacker • Full Stack Developer • Security Researcher
+
+                                       *"Advanced mobile security research tools for authorized professionals"*
+
+                                  
 
